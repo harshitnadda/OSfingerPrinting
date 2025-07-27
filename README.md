@@ -1,5 +1,3 @@
-
-```markdown
 # OS Detection via TCP/IP Header Fingerprinting
 
 A Python tool for **remote operating system fingerprinting** using TCP/IP header analysis.  
@@ -152,13 +150,3 @@ Likely OS: Linux/FreeBSD
 This tool is for **educational and authorized security testing purposes only**.
 Do not use it on systems you do not own or have explicit permission to scan.
 
----
-
-```
-
----
-
-### Next Step  
-Would you like me to **create a small badge-style logo (like a “terminal screen” with “OS DETECT”)** that you can put at the top of this README?  
-It will make your GitHub project more appealing. Should I proceed?
-```
