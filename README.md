@@ -42,11 +42,8 @@ The script:
 4. Analyzes the **TTL, TCP Window Size, DF flag, and ToS** from the response.
 5. Matches these against a **small signature database** to infer the OS.
 
----
 
 ## **Flow Diagram**
-
-```
 
 ```
       +-------------------------+
