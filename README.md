@@ -44,8 +44,6 @@ The script:
 
 
 ## **Flow Diagram**
-
-```
       +-------------------------+
       |   User Input (IP/URL)   |
       +-----------+-------------+
@@ -84,11 +82,7 @@ The script:
       +-------------------------+
       | Output Likely OS & Info |
       +-------------------------+
-```
 
-````
-
----
 
 ## **Use Cases**
 - Quick OS fingerprinting for **network reconnaissance**.
@@ -103,7 +97,7 @@ Requires Python 3 and the following libraries:
 pip install scapy termcolor
 ````
 
----
+
 
 ## **Usage**
 
